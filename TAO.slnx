@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../../tests/TAO.IntegrationTests/TAO.IntegrationTests.csproj" />
+  <Project Path="../../tests/TAO.UnitTests/TAO.UnitTests.csproj" />
+  <Project Path="../TAO.Application/TAO.Application.csproj" />
+  <Project Path="../TAO.Domain/TAO.Domain.csproj" />
+  <Project Path="../TAO.Infrastructure/TAO.Infrastructure.csproj" />
+  <Project Path="../TAO.SharedKernel/TAO.SharedKernel.csproj" />
+  <Project Path="TAO.Api/TAO.Api.csproj" />
+</Solution>
